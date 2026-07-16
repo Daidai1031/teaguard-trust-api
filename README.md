@@ -40,7 +40,7 @@ This project is an implementation of the "Provenance Guard" assignment brief, ad
 
 ```bash
 git clone YOUR_REPO_URL
-cd ai201-project4-provenance-guard
+cd teaguard-trust-api
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
